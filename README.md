@@ -2,6 +2,20 @@
 
 Creación de un servidor HTTP básico en Node.js, usando la descripción formal del protocolo HTTP 1.1 descrito en [RFC2616](https://tools.ietf.org/html/rfc2616 "RFC2616").
 
+## Tecnología / Framework usados ##
+
+* [Nodejs](https://nodejs.org/es/ "Nodejs")
+* [Typescript] (https://www.typescriptlang.org/ “Typescript”)
+
+El paquete se construye en nodejs debido a las ventajas que ofrece el lenguaje como:
+* Curva de aprendizaje
+* Fácil ejecución en una gran cantidad de servidores
+* Rendimiento e introducción de pocas fallas técnicas debido a la facilidad del lenguaje
+* Soporte de la comunidad
+* Facilidad de reuso de paquetes
+
+Además se prefiere TypeScript sobre Javascript debido al sistema de tipado que posee y a la posibilidad del uso de las últimas funcionalidades del ECMAScript, y finalmente a la posibilidad del uso de interfaces.
+
 ## Diseño ##
 
 ### Elementos ###
@@ -31,7 +45,7 @@ El elemento central del desarrollo es el servidor TCP, el cual usará un socket 
 
 Se seguirán los siguientes pasos para crear el servidor:
 
-* Metodo principal (Realización de los llamados)
+* Método principal (Realización de los llamados)
 * Creación de un servidor TCP (usando sockets).
   * Echo Server
   * Adaptación del Echo Server.
@@ -57,9 +71,24 @@ Finalmente se implementará un log de todos los requests que lleguen al servidor
 
 ![picture alt](https://cdn-images-1.medium.com/max/1600/1*JSnJtHpU7cWUnWIgGupu7w.png "Title is optional")
 
+CLASES!!!
+
 ## Implementación ##
 
 Para la implementación se utilizará `Node.js`, y se usará el paquete `net` para la implementación del servidor TCP (sockets).
+
+## Requisitos ##
+
+* `npm 3.10.10` o superior
+* `node 6.15.0` o superior
+
+## Instalación ##
+
+`npm install`
+`npm run build`
+`node lib/index.js`
+
+También se puede acceder a la implementación en Heroku: LINK
 
 ## Autores ##
 
@@ -68,3 +97,4 @@ BLA BLA BLA
 BLA BLA BLA
 
 ## Reconocimientos ##
+

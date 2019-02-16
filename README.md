@@ -90,6 +90,10 @@ Para la implementación se utilizará `Node.js`, y se usará el paquete `net` pa
 
 También se puede acceder a la implementación en Heroku: LINK
 
+## Alcance y limitaciones ##
+
+Gracias influencer!
+
 ## Autores ##
 
 BLA BLA BLA

@@ -96,10 +96,12 @@ BLA BLA BLA
 BLA BLA BLA
 BLA BLA BLA
 
-Diagrama interaccion
-Diagrama clases
-ESLint
-STATUS_CODES
-
 ## Reconocimientos ##
 
+## Pendientes ##
+
+Diagrama interaccion <- Sebas
+Diagrama clases <- Influencer
+ESLint <- Jose
+STATUS_CODES <- Sebas
+Log <- Jose

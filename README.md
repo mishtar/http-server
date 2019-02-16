@@ -84,9 +84,9 @@ Para la implementación se utilizará `Node.js`, y se usará el paquete `net` pa
 
 ## Instalación ##
 
-`npm install`
-`npm run build`
-`node lib/index.js`
+`npm install` <br />
+`npm run build` <br />
+`node lib/index.js` <br />
 
 También se puede acceder a la implementación en Heroku: LINK
 
@@ -104,8 +104,8 @@ BLA BLA BLA
 
 ## Pendientes ##
 
-* Diagrama interaccion <- Sebas
-* Diagrama clases <- Influencer
-* ESLint <- Jose
-* STATUS_CODES <- Sebas
-* Log <- Jose
+* Diagrama interaccion <- Sebas <br />
+* Diagrama clases <- Influencer <br />
+* ESLint <- Jose <br />
+* STATUS_CODES <- Sebas <br />
+* Log <- Jose <br />

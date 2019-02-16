@@ -104,8 +104,8 @@ BLA BLA BLA
 
 ## Pendientes ##
 
-Diagrama interaccion <- Sebas
-Diagrama clases <- Influencer
-ESLint <- Jose
-STATUS_CODES <- Sebas
-Log <- Jose
+* Diagrama interaccion <- Sebas
+* Diagrama clases <- Influencer
+* ESLint <- Jose
+* STATUS_CODES <- Sebas
+* Log <- Jose

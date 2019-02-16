@@ -96,5 +96,10 @@ BLA BLA BLA
 BLA BLA BLA
 BLA BLA BLA
 
+Diagrama interaccion
+Diagrama clases
+ESLint
+STATUS_CODES
+
 ## Reconocimientos ##
 

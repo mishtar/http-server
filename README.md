@@ -5,7 +5,7 @@ Creación de un servidor HTTP básico en Node.js, usando la descripción formal 
 ## Tecnología / Framework usados ##
 
 * [Nodejs](https://nodejs.org/es/ "Nodejs")
-* [Typescript] (https://www.typescriptlang.org/ “Typescript”)
+* [Typescript] (https://www.typescriptlang.org/ "Typescript")
 
 El paquete se construye en nodejs debido a las ventajas que ofrece el lenguaje como:
 * Curva de aprendizaje
